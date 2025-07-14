@@ -10,4 +10,5 @@ h1{
 <body>
 <h1 style={color: red;}> Hello World</h1>
 <script>
+<h1>hello</h1>
 console.log("hello world")
